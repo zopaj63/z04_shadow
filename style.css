@@ -1,0 +1,19 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+
+h1{
+    font-size: 2em;
+    text-shadow: 
+        3px -2px 22px rgb(0, 255, 76),
+        12px 16px 22px yellow,
+        -4px 3px 18px rgb(16, 165, 245),
+        -6px -8px 22px #0b0fe4;
+
+    color: white;
+
+}
+p{
+    line-height: 1.5;
+}
